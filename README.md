@@ -10,8 +10,11 @@
   >   ***Packages Information***
 
  >** Cruise package is $250 per pax **
+ 
  >** Island package is $200 per pax **
+ 
  >** Spa package is $150 per pax **
+ 
  >** Hiking packages is $80 per pax **
 
  >** Full price for Weekdays **
