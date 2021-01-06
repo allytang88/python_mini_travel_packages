@@ -2,6 +2,15 @@
 #### This is my first python mini project for Travel Packages booking
 #### Please feel free to download and give it a try
 
+#### File1 - Mini project travel packages.py 
+            *(This is the python file)*
+#### File2 - SA_tour_agency1.csv 
+            *(This is the csv file to keep all user inputs- All users are sample names)*
+#### File3 - Travel package IPO 
+            *(This is to show the Input/Process/Output of the project)*
+#### File4 - Travel package Flow Chart 
+            *(This is the flowchart of the project)*
+
   >   *************************
   >    Welcome to SA tour agency
   >   *************************
