@@ -3,7 +3,7 @@
 #### Please feel free to download and give it a try
 
 #### File1 - Mini project travel packages.py
-#####This is the python file
+#####This is the main python file
 
 #### File2 - SA_tour_agency1.csv
 #####(This is the csv file to keep all user inputs- All users are sample names)
