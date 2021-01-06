@@ -23,10 +23,10 @@
  >** Children ticket is 50% discount **
  >** Senior ticket is 20% discount **
 
->Please choose your options!
+>*Please choose your options!*
 
->------------------------------
->B. Check your previous booking
->C. Enter your details
->Q. Quit
->Please select option :
+>*------------------------------*
+>*B. Check your previous booking*
+>*C. Enter your details*
+>*Q. Quit*
+>*Please select option :*
