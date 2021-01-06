@@ -1,0 +1,25 @@
+custID,User Name,Budget,child ticket,Adult ticket,Senior ticket,Packages,Weekdays/weekends,Email,time of booking
+1,Alan,3000,3,4,5,2,2,alan@yahoo.com,
+2,lucy,3800,4,4,4,1,2,lucy@gmail.com,1/1/2021 15:51
+3,michael,2500,3,2,2,4,2,michael@amazon.com,2021-01-01 15:55:10.460345
+4,chan,1000,2,2,2,3,2,chan@google.com,2021-01-01 16:01:09.881620
+5,carl,1500,3,2,2,3,2,carl@gmail.com,2021-01-01 18:27:12.692655
+6,KC,2000,4,2,2,1,2,kclee,2021-01-01 18:27:44.083557
+7,michaeltan,800,2,3,0,2,e,mt@gmail.com,2021-01-01 18:39:34.291773
+8,choi,200,0,1,0,4,1,choi@yahoo.com,2021-01-01 20:43:36.223665
+9,simon,3000,5,2,4,1,e,simon@yahoo.com,2021-01-01 20:45:40.302082
+10,pauline,800,e,e,e,1,2,pauline@yahoo.com,2021-01-01 21:05:07.945479
+11,sunnychan,800,2,3,4,1,q,sunnychan@gmail.com,2021-01-01 21:20:56.493036
+12,minion,3300,10,2,2,2,2,minion@minionworld.com,2021-01-02 10:28:33.687473
+13,Samlee,800,0,2,2,4,2,samlee@gmail.com,2021-01-02 10:44:49.633561
+14,chanTK,2000,4,2,3,1,2,chanTK@yahoo.com,2021-01-02 10:45:31.306118
+15,leeT,1000,4,4,0,1,2,leeT@gmail.com,2021-01-02 13:24:22.009597
+16,TanMing,500,1,2,0,1,1,tanmin@gmail.com,2021-01-02 13:36:25.928618
+17,tangminc,1000,2,2,2,3,2,tmc@yahoo.com,2021-01-02 13:38:31.538780
+18,wongM,900,2,3,0,3,2,wongM@yahoo.com,2021-01-02 13:43:03.434027
+19,ken,2000,4,2,3,1,2,ken@yahoo.com,2021-01-02 13:49:32.166036
+20,ken,900,2,3,4,1,2,ken@yahoo.com,2021-01-02 13:50:29.881456
+21,ken,900,2,3,4,2,1,ken@yahoo.com,2021-01-02 13:52:45.677462
+22,cecelia,2000,2,3,3,1,2,cecelia@yahoo.com,2021-01-02 14:09:42.279497
+23,cecelia,2000,3,3,3,1,2,cecelia@yahoo.com,2021-01-02 14:12:13.294488
+24,simon,1500,0,4,2,1,2,simon@gmail.com,2021-01-06 20:39:13.708592
