@@ -1,7 +1,7 @@
-# python_mini_travel_packages
+### python_mini_travel_packages
 
-## This is my first python mini project for Travel Packages booking
-## Please feel free to download and give it a try
+#### This is my first python mini project for Travel Packages booking
+#### Please feel free to download and give it a try
 
   >   *************************
   >    Welcome to SA tour agency
